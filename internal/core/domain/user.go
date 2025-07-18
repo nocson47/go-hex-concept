@@ -1,3 +1,4 @@
+// users model represents the user entity in the domain
 package domain
 
 import "time"

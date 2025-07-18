@@ -1,3 +1,6 @@
+// users handler provides HTTP endpoints for user management
+// secondary adapter for user management
+
 package http
 
 import (

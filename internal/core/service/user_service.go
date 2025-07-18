@@ -1,3 +1,4 @@
+// business logic for user management
 package service
 
 import (
