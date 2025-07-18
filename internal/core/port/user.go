@@ -1,3 +1,4 @@
+// users port defines the interfaces for user management
 package port
 
 import "github.com/nocson47/go-hex-concept/internal/core/domain"

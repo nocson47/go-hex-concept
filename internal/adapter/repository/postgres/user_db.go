@@ -1,3 +1,4 @@
+// primary adapter for user repository using PostgreSQL
 package postgres
 
 import (
